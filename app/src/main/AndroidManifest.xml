@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.Deliciouspoint.Delicious">
+    package="com.FoodPrepContent.FoodPrep">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -15,28 +15,28 @@
         android:resizeableActivity="false"
         android:theme="@style/AppTheme"
         android:windowSoftInputMode="stateHidden">
-        <activity android:name="com.Deliciouspoint.Delicious.activity.OrderPlacedActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.OrderPlacedActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize" />
-        <activity android:name="com.Deliciouspoint.Delicious.activity.ProfileActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.ProfileActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize" />
-        <activity android:name="com.Deliciouspoint.Delicious.activity.OrderHistoryActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.OrderHistoryActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize"/>
-        <activity android:name="com.Deliciouspoint.Delicious.activity.CartActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.CartActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize"/>
-        <activity android:name="com.Deliciouspoint.Delicious.activity.RestaurantMenuActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.RestaurantMenuActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize"/>
-        <activity android:name="com.Deliciouspoint.Delicious.activity.DashboardActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.DashboardActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize"/>
-        <activity android:name="com.Deliciouspoint.Delicious.activity.LoginRegisterActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.LoginRegisterActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize"/>
-        <activity android:name="com.Deliciouspoint.Delicious.activity.SplashActivity"
+        <activity android:name="com.FoodPrepContent.FoodPrep.activity.SplashActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|screenSize">
             <intent-filter>
