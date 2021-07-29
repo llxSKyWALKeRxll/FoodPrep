@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FoodPrep</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ip_address">13.235.250.119</string>
+    <string name="token">f656765accd5e8</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="add_to_cart_btn">Add</string>
+    <string name="proceed_to_cart_btn">Proceed to Cart</string>
+    <string name="add_to_card_msg">Add items to your cart:</string>
+    <string name="ordering_from">Ordering From: </string>
+    <string name="place_order">Place Order (Rs)</string>
+    <string name="shared_preferences">RestaurantPreference</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders :</string>
+    <string name="question1">Q1. How was this application made?</string>
+    <string name="answer1">A1. This application was made through Android Studio.
+    Main languages/tools/technologies used: Java, Kotlin, XML, SQLite, Picasso lib, Volley lib, &amp; much more!</string>
+    <string name="question2">Q2. How hard is android development?</string>
+    <string name="answer2">A2. Personally, I found it to be quite easy. The fact that I did Web Development before this actually made this a lot easier. I did not have any trouble in making this application and actually enjoyed the process.</string>
+    <string name="question3">Q3. Are we going to see any new applications from you moving forward?</string>
+    <string name="answer3">A3. Probably not, as android development is not my main interest as of right now. But hey, never say never. I might develop a really cool application with an awesome UI later somewhere down the line, but as of right now, I have more important things to focus on.</string>
+    <string name="can_t_find_any_restaurant_with_that_name">Can\'t find any Restaurant with that name!</string>
+    <string name="no_orders_placed">No Orders Placed Yet</string>
+    <string name="AppName">FoodPrep</string>
+
+
+</resources>
